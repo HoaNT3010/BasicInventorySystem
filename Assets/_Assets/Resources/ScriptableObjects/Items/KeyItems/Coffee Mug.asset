@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a005a970f1c6540b42054cfdeab097, type: 3}
+  m_Name: Coffee Mug
+  m_EditorClassIdentifier: 
+  data:
+    rid: 1010961557385117867
+  itemSprite: {fileID: -1551285818, guid: 9bcf15f46d1ac324b9f6b042185955ed, type: 3}
+  itemModel: {fileID: 2850417266522502295, guid: d5221b35651693e4f956ff5b0c6851b9,
+    type: 3}
+  type: 4
+  description: A handy coffee mug for your morning coffee.
+  stackable: 0
+  destroyable: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 1010961557385117867
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: 3
+        description: 

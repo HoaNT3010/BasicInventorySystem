@@ -1,0 +1,381 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 404c9b531fe3ecc40b09a6e82e8f9f04, type: 3}
+  m_Name: Player Inventory
+  m_EditorClassIdentifier: 
+  savePath: /inventory.save
+  itemDatabase: {fileID: 11400000, guid: ee74561897e52404cbf2a3b62354aa1a, type: 2}
+  itemsContainer:
+    items:
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118323
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118324
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118325
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118326
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118327
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118328
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118329
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118330
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118331
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118332
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118333
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118334
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118335
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118336
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118337
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118338
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118339
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118340
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118341
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118342
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118343
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118344
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118345
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118346
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118347
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118348
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118349
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118350
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118351
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118352
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118353
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118354
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118355
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118356
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118357
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118358
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118359
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118360
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118361
+      amount: 0
+    - allowedEquipmentTypes: 
+      item:
+        rid: 1010961557385118362
+      amount: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 1010961557385118323
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118324
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118325
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118326
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118327
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118328
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118329
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118330
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118331
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118332
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118333
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118334
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118335
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118336
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118337
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118338
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118339
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118340
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118341
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118342
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118343
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118344
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118345
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118346
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118347
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118348
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118349
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118350
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118351
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118352
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118353
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118354
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118355
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118356
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118357
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118358
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118359
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118360
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118361
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 
+    - rid: 1010961557385118362
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: -1
+        description: 

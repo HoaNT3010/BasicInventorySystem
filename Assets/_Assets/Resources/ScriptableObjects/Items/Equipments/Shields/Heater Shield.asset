@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3685af4408efe40a772f6e254c4699, type: 3}
+  m_Name: Heater Shield
+  m_EditorClassIdentifier: 
+  id: 2
+  itemSprite: {fileID: 37146368, guid: 9bcf15f46d1ac324b9f6b042185955ed, type: 3}
+  itemModel: {fileID: 3381941424253938425, guid: d3cf0e1434aaffb42ae3961949545090,
+    type: 3}
+  type: 0
+  description: A lightweight and manageable shield
+  stackable: 0
+  destroyable: 1
+  equipmentType: 4
+  buffs:
+  - attribute: 2
+    value: 0
+    minValue: 20
+    maxValue: 50
+  - attribute: 1
+    value: 0
+    minValue: 10
+    maxValue: 20

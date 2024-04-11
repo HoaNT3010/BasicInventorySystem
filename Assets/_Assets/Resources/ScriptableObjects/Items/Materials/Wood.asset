@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d41e91f2acb65d4694cc91be1d6ca8e, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: 
+  data:
+    rid: 1010961557385117872
+  itemSprite: {fileID: 1369316266, guid: 9bcf15f46d1ac324b9f6b042185955ed, type: 3}
+  itemModel: {fileID: 1654525794992608567, guid: 3f91f48673e95ee49a789f46f60217c9,
+    type: 3}
+  type: 2
+  description: Chopped wood that can be used for material.
+  stackable: 1
+  destroyable: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 1010961557385117872
+      type: {class: ItemUI, ns: , asm: Assembly-CSharp}
+      data:
+        id: 5
+        description: 
